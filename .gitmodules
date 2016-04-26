@@ -1,3 +1,6 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = git@github.com:dibanez/wordpress-test.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:dibanez/ansible-test.git
